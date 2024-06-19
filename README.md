@@ -1,0 +1,2 @@
+# JS-DataTypes
+Data Types
